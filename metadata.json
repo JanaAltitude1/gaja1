@@ -1,0 +1,6 @@
+{
+  "name": "Istrava",
+  "description": "Istrava is a centralized Software Testing and Quality Assurance Management Platform for organizing testing projects, test cases, execution records, defect tracking, and QA reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
